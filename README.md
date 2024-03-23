@@ -1,2 +1,6 @@
-# server
-simple example of server in c (socket)
+# Server
+simple example of server in c (socket);
+
+##
+
+## Works only for linux :)
